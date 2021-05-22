@@ -6,7 +6,6 @@
 .App{
   background-color:#dddddd;
   padding: 1rem;
-  align-items:stretch;
   margin: 1rem;
 
   .header{
@@ -45,11 +44,8 @@
         height: 23%;
         margin-left: 1rem;
         width: 95.2%;
-        background-color: #b4a7d6;
-        vertical-align: top;   
-        align-self: flex-end; 
-
-     
+        background-color: #b4a7d6; 
+        align-self: flex-end;      
       }
   }
 }
